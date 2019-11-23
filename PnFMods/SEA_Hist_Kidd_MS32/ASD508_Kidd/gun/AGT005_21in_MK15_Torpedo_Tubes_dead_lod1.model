@@ -1,1 +1,8 @@
-<AGT005_21in_MK15_Torpedo_Tubes_dead_lod1.model><extent>12.000000</extent><parent>PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/gun/AGT005_21in_MK15_Torpedo_Tubes_dead_lod2</parent><castsShadow>true</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/gun/AGT005_21in_MK15_Torpedo_Tubes_dead_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AGT005_21in_MK15_Torpedo_Tubes_dead_lod1.model>
+<AGT005_21in_MK15_Torpedo_Tubes_dead_lod1.model>
+	<extent>	12.000000	</extent>
+	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/gun/AGT005_21in_MK15_Torpedo_Tubes_dead_lod2	</parent>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/gun/AGT005_21in_MK15_Torpedo_Tubes_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGT005_21in_MK15_Torpedo_Tubes_dead_lod1.model>

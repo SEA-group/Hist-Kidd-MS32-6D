@@ -1,1 +1,13 @@
-<AD035_Torpedo_Director_27.model><extent>2.000000</extent><parent>PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/director/AD035_Torpedo_Director_27_lod1</parent><materialNames /><visibilityBox><min>-0.030082 0.000000 -0.026937</min><max>0.038083 0.122541 0.018129</max></visibilityBox><castsShadow>false</castsShadow><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/director/AD035_Torpedo_Director_27</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></AD035_Torpedo_Director_27.model>
+<AD035_Torpedo_Director_27.model>
+	<extent>	2.000000	</extent>
+	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/director/AD035_Torpedo_Director_27_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.030082 0.000000 -0.026937	</min>
+		<max>	0.038083 0.122541 0.018129	</max>
+	</visibilityBox>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/director/AD035_Torpedo_Director_27	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD035_Torpedo_Director_27.model>

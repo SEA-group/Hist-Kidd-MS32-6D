@@ -1,0 +1,14 @@
+<ASD031_Kidd_1945_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/ship/ASD031_Kidd_1945_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/ship/ASD031_Kidd_1945_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/ship/ASD031_Kidd_1945_a.dds	</Texture>
+	</property>
+</ASD031_Kidd_1945_wire.mfm>
