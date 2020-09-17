@@ -1,0 +1,9 @@
+<ASD031_Kidd_1945_Bow_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/ship/lods/ASD031_Kidd_1945_Bow_lod3	</parent>
+	<extent>	30.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/ship/lods/ASD031_Kidd_1945_Bow_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASD031_Kidd_1945_Bow_lod2.model>

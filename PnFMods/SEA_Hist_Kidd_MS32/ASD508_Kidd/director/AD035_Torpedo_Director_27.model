@@ -1,6 +1,6 @@
 <AD035_Torpedo_Director_27.model>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/director/AD035_Torpedo_Director_27_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/director/lods/AD035_Torpedo_Director_27_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.030082 0.000000 -0.026937	</min>

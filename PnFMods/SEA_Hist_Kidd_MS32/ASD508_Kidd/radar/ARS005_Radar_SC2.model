@@ -6,7 +6,7 @@
 		<filler>	true	</filler>
 	</action>
 	<extent>	3.0000	</extent>
-	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/radar/ARS005_Radar_SC2_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/radar/lods/ARS005_Radar_SC2_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.068080 0.000003 -0.117734	</min>

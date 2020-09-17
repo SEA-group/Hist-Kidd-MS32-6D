@@ -1,6 +1,6 @@
 <ASD031_Kidd_1945_Bow.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/ship/ASD031_Kidd_1945_Bow_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/ship/lods/ASD031_Kidd_1945_Bow_lod1	</parent>
 	<extent>	6.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

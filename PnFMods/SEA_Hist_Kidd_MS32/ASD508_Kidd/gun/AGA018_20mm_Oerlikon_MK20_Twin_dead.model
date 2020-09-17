@@ -1,6 +1,6 @@
 <AGA018_20mm_Oerlikon_MK20_Twin_dead.model>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/gun/AGA018_20mm_Oerlikon_MK20_Twin_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_Hist_Kidd_MS32/ASD508_Kidd/gun/lods/AGA018_20mm_Oerlikon_MK20_Twin_dead_lod1	</parent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>
 	<visibilityBox>
