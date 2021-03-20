@@ -1,4 +1,4 @@
-﻿# Kidd MS32/6D (fake) historical skin
+﻿# Kidd MS32/6D pseudo-historical skin
 
 Skin modification for tier 8 destroyer **Kidd**. 
 
