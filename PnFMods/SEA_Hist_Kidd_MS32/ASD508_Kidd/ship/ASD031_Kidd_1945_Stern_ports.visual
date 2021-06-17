@@ -34,6 +34,78 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	HP_AGB_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.3140 0.1419 -1.3566 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_AGB_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.3140 0.1419 -1.3566 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_AGB_3	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.3081 0.1384 -1.6666 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_AGB_4	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.3081 0.1384 -1.6666 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_AGB_5	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.3007 0.1358 -1.9285 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_AGB_6	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.3007 0.1358 -1.9285 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_AGB_7	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.1931 0.1381 -3.5995 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_AGB_8	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.1931 0.1381 -3.5995 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	HP_AGM_5	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
@@ -157,15 +229,6 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 					<row3>	-0.0016 0.1380 -3.3056 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATD0919	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.1381 -3.5995 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
