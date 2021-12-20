@@ -34,60 +34,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_AGB_1	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.3140 0.1419 -1.3566 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_AGB_2	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.3140 0.1419 -1.3566 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_AGB_3	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.3081 0.1384 -1.6666 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_AGB_4	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.3081 0.1384 -1.6666 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_AGB_5	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	-0.3007 0.1358 -1.9285 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_AGB_6	</identifier>
-				<transform>
-					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
-					<row3>	0.3007 0.1358 -1.9285 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	HP_AGB_7	</identifier>
 				<transform>
 					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
@@ -129,7 +75,7 @@
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.0000 -3.7575 1.0000	</row3>
+					<row3>	0.0000 0.0000 -3.6195 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -160,6 +106,51 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_AM010_Speaker_1	</identifier>
+				<transform>
+					<row0>	0.7525 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.7525 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.7525 0.0000	</row2>
+					<row3>	0.1784 0.2787 -2.1665 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM010_Speaker_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.7525 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.7525 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.7525 0.0000	</row2>
+					<row3>	0.0000 0.2806 -2.3899 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM010_Speaker_1_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.7525 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.7525 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.7525 0.0000	</row2>
+					<row3>	-0.1784 0.2787 -2.1665 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM020_Ventilators_2	</identifier>
+				<transform>
+					<row0>	0.4077 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.5194 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.4077 0.0000	</row2>
+					<row3>	-0.0672 0.1400 -3.5149 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM020_Ventilators_2_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.4077 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.5194 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.4077 0.0000	</row2>
+					<row3>	0.0639 0.1361 -3.0962 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_AM024_Hatch_2	</identifier>
 				<transform>
 					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
@@ -184,6 +175,42 @@
 					<row1>	0.0000 0.7665 -0.2010 0.0000	</row1>
 					<row2>	0.0000 0.2010 0.7665 0.0000	</row2>
 					<row3>	0.0000 0.2357 -3.8059 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM101_Cooling_tube	</identifier>
+				<transform>
+					<row0>	0.8093 0.0000 -0.5874 0.0000	</row0>
+					<row1>	0.0000 -1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.5874 0.0000 -0.8093 0.0000	</row2>
+					<row3>	0.1762 0.1803 -3.1139 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM101_Cooling_tube_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.3084 0.0000 -0.9513 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9513 0.0000 -0.3084 0.0000	</row2>
+					<row3>	-0.2319 0.1544 -3.1611 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM101_Cooling_tube_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.3084 0.0000 -0.9513 0.0000	</row0>
+					<row1>	0.0000 -1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9513 0.0000 -0.3084 0.0000	</row2>
+					<row3>	0.2319 0.1803 -3.1611 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_AM101_Cooling_tube_INDEX_3	</identifier>
+				<transform>
+					<row0>	-0.8093 0.0000 -0.5874 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.5874 0.0000 -0.8093 0.0000	</row2>
+					<row3>	-0.1762 0.1544 -3.1139 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -214,39 +241,21 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATD0917	</identifier>
+				<identifier>	MP_AM679_Stowage_Rack	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.9703 0.0000 0.2419 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.2793 -2.2410 1.0000	</row3>
+					<row2>	-0.2419 0.0000 0.9703 0.0000	</row2>
+					<row3>	-0.1058 0.1389 -3.5808 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_ATD0918	</identifier>
+				<identifier>	MP_AM679_Stowage_Rack_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row0>	0.9703 0.0000 -0.2419 0.0000	</row0>
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.0016 0.1380 -3.3056 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATD0920	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.1389 -3.5808 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_ATD0921	</identifier>
-				<transform>
-					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.0000 0.1673 -3.1375 1.0000	</row3>
+					<row2>	0.2419 0.0000 0.9703 0.0000	</row2>
+					<row3>	0.1058 0.1389 -3.5808 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
